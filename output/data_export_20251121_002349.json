@@ -1,0 +1,26 @@
+[
+  {
+    "Product Name":"Dell Vostro 15",
+    "Price":488.78,
+    "Rating":14,
+    "Category":"Electronics",
+    "Price Category":"Premium",
+    "Scraped Date":"2025-11-21 00:24:00"
+  },
+  {
+    "Product Name":"Acer Aspire A5...",
+    "Price":679.0,
+    "Rating":9,
+    "Category":"Electronics",
+    "Price Category":"Luxury",
+    "Scraped Date":"2025-11-21 00:24:01"
+  },
+  {
+    "Product Name":"Samsung Galaxy",
+    "Price":93.99,
+    "Rating":3,
+    "Category":"Electronics",
+    "Price Category":"Mid-Range",
+    "Scraped Date":"2025-11-21 00:24:01"
+  }
+]

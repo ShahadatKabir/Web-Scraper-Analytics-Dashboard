@@ -1,0 +1,30 @@
+
+        ============================================
+        WEB SCRAPING ANALYTICS REPORT
+        ============================================
+        Generated: 2025-11-21 00:24:01
+        
+        OVERVIEW:
+        - Total Products Scraped: 3
+        - Categories: 1
+        - Price Range: $93.99 - $679.00
+        - Average Price: $420.59
+        - Average Rating: 8.7/5
+        
+        TOP 5 PRODUCTS BY PRICE:
+             Product Name  Price  Rating
+Acer Aspire A5... 679.00       9
+   Dell Vostro 15 488.78      14
+   Samsung Galaxy  93.99       3
+        
+        CATEGORY BREAKDOWN:
+                     count    mean
+Category                  
+Electronics      3  420.59
+        
+        FILES GENERATED:
+        - Excel Report: product_analysis_20251121_002349.xlsx
+        - Power BI Dataset: powerbi_dataset_20251121_002349.csv
+        - JSON Export: data_export_20251121_002349.json
+        ============================================
+        
