@@ -197,7 +197,7 @@ This project is available for personal and educational use.
 
 ## 👤 Author
 
-**Eternity**
+**Md Shahadat Kabir**
 
 ---
 
